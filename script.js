@@ -13,7 +13,7 @@ const products = [
     id: 2,
     name: "FACE SCRUB",
     priceUSD: 3.91,
-    images: ["images/p21.jpg", "images/p22.jpg", "images/p23.jpg"]
+    images: ["images/P21.jpg", "images/p22.jpg", "images/p23.jpg"]
   },
   {
     id: 3,
