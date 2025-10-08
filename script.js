@@ -228,7 +228,7 @@ function generateCartMessage() {
 
 function sendMessageViaWhatsApp() {
   closeModal();
-  const phoneNumber = "+919410831828";
+  const phoneNumber = "919410831828";
   const message = generateCartMessage();
   const url = `https://wa.me/${phoneNumber}?text=${message}`;
   window.open(url, "_blank");
